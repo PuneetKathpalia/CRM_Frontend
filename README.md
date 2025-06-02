@@ -1,6 +1,6 @@
-# 📱 Mini CRM Frontend
+# 📱 CRM Frontend
 
-Hey there! 👋 Welcome to the frontend part of our Mini CRM Platform. We've built this with **React + Vite + Tailwind CSS** to give you a smooth and beautiful experience for managing your customer relationships.
+Hey there! 👋 Welcome to the frontend part of our CRM Platform. We've built this with **React + Vite + Tailwind CSS** to give you a smooth and beautiful experience for managing your customer relationships.
 
 ## 🎯 What You Can Do
 
@@ -87,7 +87,7 @@ Here's what each piece does:
 ## 🔗 Live Demo
 
 
-This is the frontend of the Mini CRM Platform built using **React + Vite + Tailwind CSS**. It provides a user-friendly interface for managing customers, creating audience segments, launching campaigns, and viewing delivery performance. It also includes an AI-powered message generation feature on the Customers page.
+This is the frontend of the CRM Platform built using **React + Vite + Tailwind CSS**. It provides a user-friendly interface for managing customers, creating audience segments, launching campaigns, and viewing delivery performance. It also includes an AI-powered message generation feature on the Customers page.
 
 ## 🚀 Features
 
