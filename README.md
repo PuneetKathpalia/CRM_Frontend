@@ -37,20 +37,12 @@ Ready to dive in? Here's how to get everything running:
     npm install
     ```
 
-3. **Set up your environment:**
-    Create a `.env` file in the `frontend` folder and add:
-    ```dotenv
-    VITE_API_BASE=http://localhost:8000 # Change this to your backend URL
-    ```
-    Make sure this points to where your backend is running!
-
-4. **Start the party:**
+3. **Start the party:**
     ```bash
     npm run dev
     ```
-    Your browser should pop open to `http://localhost:5173` - and you're ready to go! 🎉
 
-## 🏗️ How It All Works
+##  How It All Works
 
 Here's a quick peek under the hood:
 
